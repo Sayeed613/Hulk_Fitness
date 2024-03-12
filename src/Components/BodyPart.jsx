@@ -1,5 +1,4 @@
 import { Stack, Typography } from '@mui/material';
-// import Icon from "/icons/body-part.png";
 
 const BodyPart = ({ item, setBodyPart, bodyPart }) => {
   const bodypartImages = {
